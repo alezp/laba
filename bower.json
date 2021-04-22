@@ -1,0 +1,30 @@
+{
+  "name": "laravel5-angular-material-starter",
+  "authors": [
+    "Jad Joubran <jad@jadjoubran.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.0",
+    "angular": "~1.5",
+    "angular-ui-router": "~1.0.0-alpha.3",
+    "ngstorage": "~0.3.10",
+    "angular-material": "~1.0.8",
+    "restangular": "~1.5.2",
+    "angular-loading-bar": "~0.9.0",
+    "satellizer": "^0.14.0",
+    "ngmap": "1.18.1",
+    "datatables.net": "^1.10.16",
+    "datatables.net-dt": "^3.2.2",
+    "angular-datatables": "^0.6.2"
+  },
+  "resolutions": {
+    "angular": "1.6.7"
+  }
+}
